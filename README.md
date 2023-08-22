@@ -65,3 +65,5 @@
     npm install <path/to/local_pkg>
 ```
 
+### メモ
+- `export default`したものは`index.ts`で再びexport出来ない
